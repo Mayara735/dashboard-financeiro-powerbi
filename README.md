@@ -36,7 +36,7 @@ Exibir de forma visual e interativa:
 
 ## Arquivos Disponíveis
 
-- `DashboardFinanceiro.pbix` – Arquivo do Power BI
+- `Dashboard Financeiro.pbix` – Arquivo do Power BI
 - Imagens do dashboard para referência
 
 ---
